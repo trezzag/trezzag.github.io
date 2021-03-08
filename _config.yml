@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taha"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Taha Rezzag"
 description              : &description "personal description"
